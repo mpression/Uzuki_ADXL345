@@ -1,0 +1,2 @@
+# Uzuki_ADXL345
+Uzuki_Si7013は、Analog Devicesの３軸加速度センサ　ADXL345のArduino用サンプルソースコードです。
